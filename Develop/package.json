@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js application that will generate a README file for git projects based on user input.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbycav7/ReadMe-Generator"
+  },
+  "author": "Abigail Sexton",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbycav7/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/abbycav7/ReadMe-Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^7.3.3"
   }
 }
