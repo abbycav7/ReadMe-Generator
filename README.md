@@ -23,7 +23,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-![User Video](https://i.imgur.com/UIZPCEL.mp4)
+![User Video](/images/readme-generator.gif)
 
 ![Screenshot](./Develop/assets/images/screenshot1.png)
 
