@@ -24,7 +24,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 # Usage 
 [![using video](./assets/images/readme-generator.gif)]
 
-![screenshot](./assets/images/screenshot1.png)
+![screenshot](./Develop/assets/images/screenshot1.png)
 
 # Credits
 
