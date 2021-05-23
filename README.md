@@ -22,7 +22,7 @@ This is a Node.js application that will generate a README.md file for GitHub pro
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[![using video](./assets/images/readme-generator.gif)]
+[![using video](./Devlop/assets/images/readme-generator.gif)]
 
 ![screenshot](./Develop/assets/images/screenshot1.png)
 
