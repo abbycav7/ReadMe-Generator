@@ -23,7 +23,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-![User Video](https://imgur.com/n346Mw7)
+![User Video](./Develop/assets/images/userrun-thru.gif)
 
 ![Screenshot](./Develop/assets/images/screenshot1.png)
 
