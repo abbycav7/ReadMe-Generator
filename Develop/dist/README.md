@@ -2,7 +2,7 @@
     
 ![license](https://img.shields.io/badge/License-MIT-blue)
 
-You dipped the chip. You took a bite. And you dipped again. That's like putting your whole mouth right in the dip. From now on, when you take a chip- just take one dip and end it.
+You dipped the chip. You took a bite. And you dipped again. That’s like putting your whole mouth right in the dip! From now on, when you take a chip — just take one dip and end it.
 
 # Table of Contents
     
@@ -22,11 +22,11 @@ no install required
 
 # Usage 
 
-![alt text](assets/images/Screenshot.jpg)
+![alt text](linkilink.jpg)
 
 # Credits
 
-Made by [this programmer]
+Made by {this programmer]
 
 # Questions
 
