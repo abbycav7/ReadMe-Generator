@@ -23,7 +23,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-![User Video](./Develop/assets/images/userrun-thru.gif)
+![User Video](https://gfycat.com/polishedjadedafricanpiedkingfisher)
 
 ![Screenshot](./Develop/assets/images/screenshot1.png)
 
