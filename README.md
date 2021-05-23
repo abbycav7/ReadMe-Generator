@@ -23,7 +23,9 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-![User Video](./Develop/assets/images/runthru1.gif) (https://drive.google.com/file/d/1ysge0_T5Wchkca-QnsFR9dHD4YZ5_ohj/view)
+![User Video](./Develop/assets/images/runthru1.gif) 
+
+(https://drive.google.com/file/d/1ysge0_T5Wchkca-QnsFR9dHD4YZ5_ohj/view)
 
 ![Screenshot](./Develop/assets/images/screenshot1.png)
 
